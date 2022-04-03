@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/victorlifan/victorlifan/main/img/1590774165475.gif"/>
-
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=victorlifan&color=brightgreen" alt="watching_count" />
-</p>
-
-
+</br></br>
+<div align=center>
+        <a href="https://www.linkedin.com/in/victorlifan"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://stackoverflow.com/users/12920872/victorlifan"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        <a href="https://www.hackerrank.com/victorlifan?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-%20-green" alt="HackerRank" /></a>
+    </div>
 <header>
 <h1>Hey there, I'm <strong><em><a href="https://www.linkedin.com/in/victorlifan">Fan</a></em></strong>, a data scientist and machine learning enthusiast 🕺</h1>
 </header>
@@ -12,30 +12,31 @@
 Quick question: how do we programmatically define consciousness?🤯
 
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
-};
+```python
+
+from datascience.datascientist import Fan
+
+...
+
+class Bio(metaclass=Meta):
+    name        : str = "Fan Li"
+    designation : str = "Data Scientist"
+    base        : str = "San Francisco, CA"
+#    company     : str = "???"
+#    website     : str = "???"
+
+class Stack(metaclass=Meta):
+    languages   : Tuple[str, ...] = ("Python", "SQL", "HTML")
+    databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Oracle", "MongoDB")
+    misc        : Tuple[str, ...] = ("","Docker")
+    ongoing     : Tuple[str, ...] = ("AWS")
+
+class Social(metaclass=Meta):
+    linkedin    : str = "victorlifan"
 ```
-</br></br>
+</br>
 <h2>💻 Some stats 💻</h2>
+<img src="https://komarev.com/ghpvc/?username=victorlifan&color=brightgreen" alt="watching_count" />
 
 ![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorlifan&show_icons=true&theme=cobalt)
 ---
