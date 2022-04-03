@@ -1,7 +1,14 @@
 <img src="https://raw.githubusercontent.com/victorlifan/victorlifan/main/img/1590774165475.gif"/>
 
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=victorlifan&color=brightgreen" alt="watching_count" />
+</p>
 
-<header><h1>Hey there, I'm <strong><em><a href="https://www.linkedin.com/in/victorlifan">Fan</a></em></strong>, a data scientist and machine learning enthusiast 🕺</br></h1></header>
+
+<header>
+<h1>Hey there, I'm <strong><em><a href="https://www.linkedin.com/in/victorlifan">Fan</a></em></strong>, a data scientist and machine learning enthusiast 🕺</h1>
+</header>
+
 Quick question: how do we programmatically define consciousness?🤯
 
 
@@ -32,4 +39,3 @@ const aboutMe = {
 
 ![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorlifan&show_icons=true&theme=cobalt)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlifan)](https://github.com/anuraghazra/github-readme-stats)
