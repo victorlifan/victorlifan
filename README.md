@@ -30,6 +30,6 @@ const aboutMe = {
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorlifan&show_icons=true&theme=radical)
+![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorlifan&show_icons=true&theme=cobalt)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlifan)](https://github.com/anuraghazra/github-readme-stats)
