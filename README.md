@@ -26,13 +26,15 @@ class Bio(metaclass=Meta):
 #    website     : str = "???"
 
 class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "SQL", "HTML")
+    languages   : Tuple[str, ...] = ("Python", "SQL", "HTML", "Bash")
     databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Oracle", "MongoDB")
-    misc        : Tuple[str, ...] = ("","Docker")
-    ongoing     : Tuple[str, ...] = ("AWS")
+    misc        : Tuple[str, ...] = ("Spark", "Docker")
+    ongoing     : Tuple[str, ...] = ("AWS", "H2O AutoML")
 
 class Social(metaclass=Meta):
     linkedin    : str = "victorlifan"
+    twitter     : str = "fanli54296660"
+    wechat      : str = "victorlifan"
 ```
 </br>
 <h2>💻 Some stats 💻</h2>
