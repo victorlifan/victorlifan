@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/victorlifan/victorlifan/main/img/1590774165475.gif"/>
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
+<header><h1>Hey there, I'm <strong><em><a href="https://www.linkedin.com/in/victorlifan">Fan</a></em></strong>, a data scientist and machine learning enthusiast 🕺</br></h1></header>
+Quick question: how do we programmatically define consciousness?🤯
 
 
 ```javascript
@@ -30,8 +30,6 @@ const aboutMe = {
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorlifan&show_icons=true&theme=radical)
 ---
-
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlifan)](https://github.com/anuraghazra/github-readme-stats)
