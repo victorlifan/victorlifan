@@ -2,8 +2,9 @@
 </br></br>
 <div align=center>
         <a href="https://www.linkedin.com/in/victorlifan"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://victorlifan.wixsite.com/victorlifan"><img src="https://img.shields.io/badge/%20-Fan's--website-red" alt="website" /></a>
         <a href="https://stackoverflow.com/users/12920872/victorlifan"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://www.hackerrank.com/victorlifan?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-%20-green" alt="HackerRank" /></a>
+        <a href="https://www.hackerrank.com/victorlifan?hr_r=1"><img src="https://img.shields.io/badge/%20-HackerRank-green" alt="HackerRank" /></a>
     </div>
 <header>
 <h1>Hey there, I'm <strong><em><a href="https://www.linkedin.com/in/victorlifan">Fan</a></em></strong>, a data scientist and machine learning enthusiast 🕺</h1>
@@ -22,8 +23,8 @@ class Bio(metaclass=Meta):
     name        : str = "Fan Li"
     designation : str = "Data Scientist"
     base        : str = "San Francisco, CA"
+    website     : str = "https://victorlifan.wixsite.com/victorlifan"
 #    company     : str = "???"
-#    website     : str = "???"
 
 class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "SQL", "HTML", "Bash")
