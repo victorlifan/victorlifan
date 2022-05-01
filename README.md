@@ -10,8 +10,6 @@
 <h1>Hey there, I'm <strong><em><a href="https://www.linkedin.com/in/victorlifan">Fan</a></em></strong>, a data scientist and machine learning enthusiast 🕺</h1>
 </header>
 
-Quick question: how do we programmatically define consciousness?🤯
-
 
 ```python
 
