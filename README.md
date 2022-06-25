@@ -22,7 +22,7 @@ class Bio(metaclass=Meta):
     designation : str = "Data Scientist"
     base        : str = "San Francisco, CA"
     website     : str = "https://victorlifan.wixsite.com/victorlifan"
-#    company     : str = "???"
+    company     : str = "Capgemini"
 
 class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "SQL", "HTML", "Bash")
