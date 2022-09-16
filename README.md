@@ -28,7 +28,7 @@ class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "SQL", "HTML", "Bash")
     databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Oracle", "MongoDB")
     misc        : Tuple[str, ...] = ("AWS", "Spark", "Docker")
-    ongoing     : Tuple[str, ...] = ("Reinforcement Leaning")
+    ongoing     : Tuple[str, ...] = ("Reinforcement Learning")
 
 class Social(metaclass=Meta):
     linkedin    : str = "victorlifan"
