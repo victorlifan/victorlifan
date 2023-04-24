@@ -7,7 +7,7 @@
         <a href="https://www.hackerrank.com/victorlifan?hr_r=1"><img src="https://img.shields.io/badge/%20-HackerRank-green" alt="HackerRank" /></a>
     </div>
 <header>
-<h1>Hey there, I'm <strong><em><a href="https://www.linkedin.com/in/victorlifan">Fan</a></em></strong>, a data scientist and machine learning engineer 🕺</h1>
+<h1>Hey there, I'm <strong><em><a href="https://www.linkedin.com/in/victorlifan">Fan</a></em></strong>, a machine learning engineer and data scientist 🕺</h1>
 </header>
 
 
